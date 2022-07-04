@@ -1,0 +1,25 @@
+/* CSS AQUI */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000 !important;
+}
+
+.container {
+    position: relative;
+    top: 20vw;
+}
+
+.result {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.bt {
+    color: #FFF;
+    background-color: rgba(255, 0, 0, 0.712);
+    border-radius: 15px;
+    outline: none !important;
+}
